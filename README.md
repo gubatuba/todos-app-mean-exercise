@@ -1,4 +1,4 @@
-# todos-app-mean-exercise
+# todos-app-mean-exercise IN PROGRESS
 
 Excelent excercise to build a MEAN Stack APP
 
